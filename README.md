@@ -1,3 +1,6 @@
 # Generated-QR-Code-in-Python
 
-Developed a Python script in Jupyter Notebook to generate QR codes for diverse data types including URLs, text, and contact information. Enhanced efficiency by automating the QR code creation process, facilitating applications such as marketing campaigns, inventory tracking, and event registrations.
+Title: QR Code Generator for LinkedIn Profile
+
+Description:
+Built a QR code generator in Python, implemented in a Jupyter Notebook, to create QR codes for different data types including URLs, text, and contact information. Enhanced efficiency by automating QR code creation, enabling easy sharing of LinkedIn profiles. This tool facilitates networking and professional connections.
